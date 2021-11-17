@@ -12,9 +12,3 @@
 </div>
   
   ##
- 
-<div> 
-
-  ![Snake animation](https://github.com/Davi-R-Franca/Davi-R-Franca/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
